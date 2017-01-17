@@ -16,7 +16,7 @@
 
 > Litt was made for all ES6 JavaScript platforms.
 
-# Even though Litt works fine IT'S A JOKE guys. Please don't use this for production. Or probably anything.
+## **Even though Litt works fine IT'S A JOKE guys. Please don't use this for production. Or probably anything.**
 
 * * *
 
