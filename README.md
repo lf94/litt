@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/oMec7S1.gif" width="256" height="256" alt="litt">
+  <img src="https://i.imgur.com/oMec7S1.gif"  alt="litt">
   <br>
   <b>litt</b>: tiniest 128b javascript event emitter / pubsub in the world.
   <br>
