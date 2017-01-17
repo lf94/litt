@@ -1,0 +1,34 @@
+{
+  "name": "litt",
+  "version": "1.0.0",
+  "description": "The smallest event emitter in the world.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lf94/litt.git"
+  },
+  "keywords": [
+    "event",
+    "emitter",
+    "smallest",
+    "small",
+    "tiny",
+    "tiniest",
+    "mitt",
+    "litt",
+    "pubsub",
+    "publish",
+    "subscrib",
+    "subscriber",
+    "pub/sub"
+  ],
+  "author": "lf94",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lf94/litt/issues"
+  },
+  "homepage": "https://github.com/lf94/litt#readme"
+}
