@@ -18,6 +18,8 @@
 
 ## **Even though Litt works fine IT'S A JOKE guys. Please don't use this for production. Or probably anything.**
 
+### Yes I will accept pull requests to make it smaller. All there is to do really is remove spaces.
+
 * * *
 
 
