@@ -19,4 +19,4 @@
 
 ## **Even though Litt works fine IT'S A JOKE guys. Please don't use this for production. Or probably anything.**
 
-### Yes I will accept pull requests to make it smaller...All that's left to do is change function names really...
+### Yes I will accept pull requests to make it smaller...But you cannot change the API (on/off/emit). These names must remain.
