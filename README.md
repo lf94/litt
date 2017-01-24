@@ -17,6 +17,6 @@
 
 > Litt was made for all ES6 JavaScript platforms.
 
-## Even though __Litt works__ IT'S A JOKE guys. Please don't use this for production. Or probably anything.
+** Even though __**Litt works**__ - IT'S A JOKE. Please don't use this for production. Or probably anything.**
 
-### Yes I will accept pull requests to make it smaller...But you cannot change the API (on/off/emit). These names must remain.
+Yes I will accept pull requests to make it smaller...But you cannot change the API (on/off/emit). These names must remain.
