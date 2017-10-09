@@ -21,7 +21,7 @@
 
 Yes I will accept pull requests to make it smaller...But you cannot change the API (on/off/emit). These names must remain.
 
-## How Litt?
+## How to use Litt?
 
 ```js
 // create empty emitter
