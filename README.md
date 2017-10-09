@@ -20,3 +20,24 @@
 ** Even though __**Litt works**__ - IT'S A JOKE. Please don't use this for production. Or probably anything.**
 
 Yes I will accept pull requests to make it smaller...But you cannot change the API (on/off/emit). These names must remain.
+
+## How to use Litt?
+
+```js
+// create empty emitter
+let emitter = e()
+
+// create a prefilled emitter
+emitter = e({ foo: [d => console.log(d)] })
+
+// listen to an event
+emitter.on('foo', d => console.log(d))
+
+// fire an event
+emitter.emit('foo', 'some data')
+
+// unlisten to an event
+const onFoo = () => {}
+emitter.on('foo', onFoo)
+emitter.off('foo', onFoo)
+```
