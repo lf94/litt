@@ -1,14 +1,14 @@
 <p align="center">
   <img src="https://i.imgur.com/oMec7S1.gif"  alt="litt">
   <br>
-  <b>litt</b>: tiniest 105b javascript event emitter / pubsub in the world.
+  <b>litt</b>: tiniest 104b javascript event emitter / pubsub in the world.
   <br>
 </p>
 
 
 ## Why Litt?
 
-- **Sub-atomic:** weighs **105 bytes** gzipped
+- **Sub-atomic:** weighs **104 bytes** gzipped
 - **Useful:** Is nearly 2x smaller than [mitt](https://github.com/developit/mitt)!
 - **Familiar:** same names & ideas as [Node's EventEmitter](https://nodejs.org/api/events.html#events_class_eventemitter)
 - **Functional:** methods don't rely on `this`
